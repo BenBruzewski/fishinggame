@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Fish.png</file>
+        <file>images/Flounder.png</file>
+        <file>images/Pufferfish.png</file>
+        <file>images/map.png</file>
+        <file>images/player1.png</file>
+        <file>images/player2.png</file>
+        <file>images/player3.png</file>
+        <file>images/player4.png</file>
+        <file>images/Bucket1.png</file>
+        <file>images/Bucket2.png</file>
+        <file>images/Bucket3.png</file>
+        <file>images/Bucket4.png</file>
+        <file>images/map2.png</file>
+        <file>images/menunew.png</file>
+        <file>images/stone.png</file>
+    </qresource>
+</RCC>
