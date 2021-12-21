@@ -1,5 +1,6 @@
 # fishinggame
 This is a group project from my CPE353 course. It is done in C++ intended for use with QtCreator. 
+Credit is absolutely due to my teammates, Ben McAnulty, Jesse Cowart, and Jacob Smith as well.
 
 # User Manual
 - NOTE: This project is intended for Linux with Qt Creator 4.9.2 (Based on Qt 5.12.4). Any other versions, or operating systems may encounter stability issues. 
